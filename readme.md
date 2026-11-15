@@ -99,7 +99,7 @@ Running `main.ipynb` displays the following, and also saves it all as `main.html
 | Team member | Role | Contribution |
 |-------------|------|--------------|
 | **Ayesha Waheed** | Manager | Created and manages the repository, reviews and merges all pull requests. Part 1: reproducing the graphics (`01_reproduce_graphics.ipynb`). |
-| **Charles Sam DEEMUA** | Team member | Part 2: recomputing the statistics table (`02_recompute_statistics.ipynb`). |
-| **Albatoul Ahmad** | Team member | Part 3: analysis of our own MouseReMoCo recording (`03_own_data_analysis.ipynb`). |
+| **Albatoul Ahmad** | Team member | Part 2: recomputing the statistics table (`02_recompute_statistics.ipynb`). |
+| **Charles Sam DEEMUA** | Team member | Part 3: analysis of our own MouseReMoCo recording (`03_own_data_analysis.ipynb`). |
 
 **Workflow:** each person works on their own branch and in their own notebook. Changes reach `main` only through pull requests, which are reviewed by the team and merged by the manager.
